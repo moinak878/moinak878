@@ -1,5 +1,7 @@
 ## Hi There ,I am Moinak !  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak878&label=Profile%20views&color=0e75b6&style=flat" alt="moinak878" /> </p>
+
 <a href="https://twitter.com/moinak878">
   <img align="left" alt="Moinak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,14 +19,10 @@
 #### About me ...
 
 - 🎓An Engineering Undergraduate student
-- An ML & Open Source enthusiast
-- Doing Competitive Coding on Codeforces and Codechef!
-- ICPC Regionalist 2019
-- :test_tube: Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- :test_tube: Currently working on some of my cool side projects based on Web Development.
 - :speech_balloon: Ask me about competitive coding, full-stack, web, or literally anything!
 - 😄 Pronouns: he/him/his
-- :mailbox: You can reach me with the links below
-
+- :mailbox: You can reach me at
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moinak878@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moinak-banerjee-759b97a3/)
 
@@ -50,13 +48,11 @@
 
 ##### Some of my favorite open source projects :
 
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript !
-<!-- wi*quL3fcV -->
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -65,7 +61,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-⭐️ From [moinak878](https://github.com/moinak878)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak878&label=Profile%20views&color=0e75b6&style=flat" alt="moinak878" /> </p>
+⭐️ [moinak878](https://github.com/moinak878)
+
 
 
