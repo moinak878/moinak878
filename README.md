@@ -18,8 +18,8 @@
 
 #### About me ...
 
-- 🎓An Engineering Undergraduate student
-- :test_tube: Currently working on some of my cool side projects based on Web Development.
+- 💻 SWE at Microsoft
+- :test_tube: Currently working on some of my cool side projects
 - :speech_balloon: Ask me about competitive coding, full-stack, web, or literally anything!
 - 😄 Pronouns: he/him/his
 - :mailbox: You can reach me at
